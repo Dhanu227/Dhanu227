@@ -8,6 +8,15 @@ I'm **Dhananjay**, an aspiring **Data Scientist** 🎓
 - 🌱 I’m currently learning **deep learning frameworks like PyTorch and TensorFlow**  
 - 👯 I’m looking to collaborate on **open-source data science and NLP projects**
 
+## 🚀 Projects
+
+- [**Kindle Sentiment Analysis**](https://github.com/Dhanu227/kindle-sentiment-analysis)  
+  Analyzed customer reviews of Kindle products using NLP techniques. Applied sentiment analysis to understand customer satisfaction and identify key product features, using libraries like **spaCy** and **NLTK**.
+
+- [**Forest Fire Analysis**](https://github.com/Dhanu227/forestfire-analysis)  
+  Built a predictive model to analyze forest fire data, identifying key factors contributing to fire occurrences. Utilized **machine learning** algorithms and visualized patterns using **Matplotlib** and **Seaborn**.
+
+
 ## 🎨 Fun Facts
 - I'm an avid **reader** and love exploring new books, especially those related to data science, AI, and philosophy, fiction,!  
 - I enjoy **writing** and often pen my thoughts, poetry, and reflections on various topics.  
