@@ -6,7 +6,13 @@ I'm **Dhananjay**, an aspiring **Data Scientist** 🎓
 💼 Open to **full-time roles** in Data Science, Machine Learning, and AI  
 - 🔭 I’m currently working on **a predictive analytics project using machine learning**  
 - 🌱 I’m currently learning **deep learning frameworks like PyTorch and TensorFlow**  
-- 👯 I’m looking to collaborate on **open-source data science and NLP projects**  
+- 👯 I’m looking to collaborate on **open-source data science and NLP projects**
+
+## 🎨 Fun Facts
+- I'm an avid **reader** and love exploring new books, especially those related to data science, AI, and philosophy, fiction,!  
+- I enjoy **writing** and often pen my thoughts, poetry, and reflections on various topics.  
+- In my free time, I like to **watch movies**, particularly those that delve into AI, technology, and thought-provoking narratives.  
+
 ## 🛠 Skills  
 
 ### Programming Languages  
@@ -34,10 +40,8 @@ I'm **Dhananjay**, an aspiring **Data Scientist** 🎓
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
 
-
-
- 
-
+## 🙏 Thank You for Visiting!
+Thanks for taking the time to check out my profile! If you’d like to collaborate or chat about data science, feel free to reach out. I’m always open to new ideas and discussions.
 
 <!--
 **Dhanu227/Dhanu227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
