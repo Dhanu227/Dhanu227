@@ -34,10 +34,7 @@ I'm **Dhananjay**, an aspiring **Data Scientist** 🎓
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)  
+
 
  
 
