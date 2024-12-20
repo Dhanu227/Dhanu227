@@ -10,7 +10,7 @@ I'm **Dhananjay**, an aspiring **Data Scientist** 🎓
 
 ## 🚀 Projects
 
-- [**Kindle Sentiment Analysis**](https://github.com/Dhanu227/kindle-sentiment-analysis)  
+- [**Kindle Sentiment Analysis**](https://github.com/Dhanu227/Kindle-Review-Sentiment-Analysis)
   Analyzed customer reviews of Kindle products using NLP techniques. Applied sentiment analysis to understand customer satisfaction and identify key product features, using libraries like **spaCy** and **NLTK**.
 
 - [**Forest Fire Analysis**](https://github.com/Dhanu227/Forestfire)  
