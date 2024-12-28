@@ -46,20 +46,25 @@ Data sourced from [Julian McAuley, UCSD](http://jmcauley.ucsd.edu/data/amazon/).
 - **Languages**: Python  
 - **Libraries**: Pandas, NumPy, scikit-learn, NLTK, spaCy  
 - **Tools**: Jupyter Notebooks
+
 [GitHub Repository](https://github.com/Dhanu227/Kindle-Review-Sentiment-Analysis)
  
-### **3. Forest Fire Analysis**  
-This project involves building a predictive model to analyze forest fire data, identifying significant factors contributing to fire occurrences, and visualizing trends and patterns.
-#### **Features**
-- Explored and cleaned forest fire data for accurate analysis.  
-- Applied **machine learning algorithms** like Linear Regression and Random Forest for prediction.  
-- Created meaningful visualizations to uncover fire trends using **Matplotlib** and **Seaborn**.  
+### **Forest Fire Analysis**  
+This project analyzes weather and environmental data from two regions of Algeria (Bejaia and Sidi Bel-abbes) to predict the occurrence of forest fires. The dataset includes 244 instances (122 per region) with 14 features related to weather and fire conditions.
+#### **Dataset**
+- **Features**: Temperature, Humidity, Wind Speed, Rain, FWI components (FFMC, DMC, DC, ISI, BUI, FWI), etc.  
+- **Output**: Fire (138) and Not Fire (106)  
+- **Timeframe**: June to September 2012  
+#### **Approach**
+- Data cleaning, outlier detection, and feature scaling/standardization.
+- Used regression models: **Linear Regression**, **Ridge**, **Lasso**, and **Elastic Net** to predict fire occurrences.
 #### **Tech Stack**
 - **Languages**: Python  
-- **Libraries**: scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
-- **Algorithms**: Linear Regression, Random Forest  
-#### **Repository**  
-[GitHub Repository](https://github.com/Dhanu227/Forestfire)  
+- **Libraries**: Pandas, NumPy, scikit-learn  
+- **Tools**: Jupyter Notebooks
+
+[GitHub Repository](https://github.com/Dhanu227/Forestfire)
+  
 
 ## 🎨 Fun Facts
 - I'm an avid **reader** and love exploring new books, especially those related to data science, AI, and philosophy, fiction,!  
