@@ -26,7 +26,7 @@ This project predicts customer churn for a bank using an Artificial Neural Netwo
    ```bash
    https://github.com/Dhanu227/Churn-Prediction-ANN- 
 
-### **Kindle Sentiment Analysis**  
+### **2. Kindle Sentiment Analysis**  
 This project performs sentiment analysis on a dataset of 982,619 Amazon Kindle product reviews from May 1996 to July 2014. The goal is to analyze review sentiments, helpfulness, and identify factors influencing review usefulness.
 #### **Dataset**
 Key columns include:
@@ -49,7 +49,7 @@ Data sourced from [Julian McAuley, UCSD](http://jmcauley.ucsd.edu/data/amazon/).
 
 [GitHub Repository](https://github.com/Dhanu227/Kindle-Review-Sentiment-Analysis)
  
-### **Forest Fire Analysis**  
+### **3. Forest Fire Analysis**  
 This project analyzes weather and environmental data from two regions of Algeria (Bejaia and Sidi Bel-abbes) to predict the occurrence of forest fires. The dataset includes 244 instances (122 per region) with 14 features related to weather and fire conditions.
 #### **Dataset**
 - **Features**: Temperature, Humidity, Wind Speed, Rain, FWI components (FFMC, DMC, DC, ISI, BUI, FWI), etc.  
