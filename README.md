@@ -26,19 +26,28 @@ This project predicts customer churn for a bank using an Artificial Neural Netwo
    ```bash
    https://github.com/Dhanu227/Churn-Prediction-ANN- 
 
-### **2. Kindle Sentiment Analysis**  
-This project focuses on analyzing customer reviews of Kindle products using Natural Language Processing (NLP) techniques to understand customer satisfaction and highlight key product features.
-#### **Features**
-- Preprocessed textual data using libraries like **spaCy** and **NLTK**.  
-- Performed sentiment analysis to classify reviews into positive, neutral, and negative categories.  
-- Visualized results using **WordCloud** and other plotting tools for insights.  
+### **Kindle Sentiment Analysis**  
+This project performs sentiment analysis on a dataset of 982,619 Amazon Kindle product reviews from May 1996 to July 2014. The goal is to analyze review sentiments, helpfulness, and identify factors influencing review usefulness.
+#### **Dataset**
+Key columns include:
+- **asin**: Product ID  
+- **helpful**: Helpfulness rating (e.g., 2/3)  
+- **overall**: Product rating  
+- **reviewText**: Review content  
+- **reviewerID**: Reviewer ID  
+- **reviewTime**: Review timestamp
+Data sourced from [Julian McAuley, UCSD](http://jmcauley.ucsd.edu/data/amazon/).
+#### **Key Tasks**
+- Sentiment analysis on review text  
+- Analyze helpfulness ratings and factors influencing them  
+- Detect fake reviews and outliers  
+- Product rating analysis
 #### **Tech Stack**
 - **Languages**: Python  
-- **Libraries**: spaCy, NLTK, Pandas, Matplotlib  
-- **Tools**: WordCloud, Seaborn  
-#### **Repository**  
-[GitHub Repository](https://github.com/Dhanu227/Kindle-Review-Sentiment-Analysis)  
-
+- **Libraries**: Pandas, NumPy, scikit-learn, NLTK, spaCy  
+- **Tools**: Jupyter Notebooks
+[GitHub Repository](https://github.com/Dhanu227/Kindle-Review-Sentiment-Analysis)
+ 
 ### **3. Forest Fire Analysis**  
 This project involves building a predictive model to analyze forest fire data, identifying significant factors contributing to fire occurrences, and visualizing trends and patterns.
 #### **Features**
