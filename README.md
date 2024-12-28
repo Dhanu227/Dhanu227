@@ -24,7 +24,7 @@ This project predicts customer churn for a bank using an Artificial Neural Netwo
 #### **Run the App**
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/Dhanu227/churn-prediction
+  https://github.com/Dhanu227/Churn-Prediction-ANN- 
 
 ### **2. Kindle Sentiment Analysis**  
 This project focuses on analyzing customer reviews of Kindle products using Natural Language Processing (NLP) techniques to understand customer satisfaction and highlight key product features.
