@@ -9,14 +9,48 @@ I'm **Dhananjay**, an aspiring **Data Scientist** 🎓
 - 👯 I’m looking to collaborate on **open-source data science and NLP projects**
 
 ## 🚀 Projects
+# **Projects Portfolio**
 
-- [**Kindle Sentiment Analysis**](https://github.com/Dhanu227/Kindle-Review-Sentiment-Analysis)  
-  Analyzed customer reviews of Kindle products using NLP techniques. Applied sentiment analysis to understand customer satisfaction and identify key product features, using libraries like **spaCy** and **NLTK**.
+### **1. Churn Prediction with ANN**  
+This project predicts customer churn for a bank using an Artificial Neural Network (ANN) based on customer demographics, account activity, and transaction history.
+#### **Features**
+- Preprocessed dataset with features like `CreditScore`, `Age`, `Balance`, and `Geography`.
+- Built an ANN model for binary classification and monitored with **TensorBoard**.
+- Saved the model as a **pickle** file and deployed with a **Streamlit** app for real-time predictions.
+#### **Tech Stack**
+- **Languages**: Python  
+- **Libraries**: TensorFlow, Pandas, NumPy, Scikit-learn, Streamlit  
+- **Tools**: TensorBoard  
+#### **Run the App**
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/Dhanu227/churn-prediction
 
-- [**Forest Fire Analysis**](https://github.com/Dhanu227/Forestfire)  
-  Built a predictive model to analyze forest fire data, identifying key factors contributing to fire occurrences. Utilized **machine learning** algorithms and visualized patterns using **Matplotlib** and **Seaborn**.
+### **2. Kindle Sentiment Analysis**  
+This project focuses on analyzing customer reviews of Kindle products using Natural Language Processing (NLP) techniques to understand customer satisfaction and highlight key product features.
+#### **Features**
+- Preprocessed textual data using libraries like **spaCy** and **NLTK**.  
+- Performed sentiment analysis to classify reviews into positive, neutral, and negative categories.  
+- Visualized results using **WordCloud** and other plotting tools for insights.  
+#### **Tech Stack**
+- **Languages**: Python  
+- **Libraries**: spaCy, NLTK, Pandas, Matplotlib  
+- **Tools**: WordCloud, Seaborn  
+#### **Repository**  
+[GitHub Repository](https://github.com/Dhanu227/Kindle-Review-Sentiment-Analysis)  
 
-
+### **3. Forest Fire Analysis**  
+This project involves building a predictive model to analyze forest fire data, identifying significant factors contributing to fire occurrences, and visualizing trends and patterns.
+#### **Features**
+- Explored and cleaned forest fire data for accurate analysis.  
+- Applied **machine learning algorithms** like Linear Regression and Random Forest for prediction.  
+- Created meaningful visualizations to uncover fire trends using **Matplotlib** and **Seaborn**.  
+#### **Tech Stack**
+- **Languages**: Python  
+- **Libraries**: scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
+- **Algorithms**: Linear Regression, Random Forest  
+#### **Repository**  
+[GitHub Repository](https://github.com/Dhanu227/Forestfire)  
 
 ## 🎨 Fun Facts
 - I'm an avid **reader** and love exploring new books, especially those related to data science, AI, and philosophy, fiction,!  
